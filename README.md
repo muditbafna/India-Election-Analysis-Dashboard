@@ -109,7 +109,9 @@ indian-election-analysis-dashboard/
 
 ## 🧑‍💻 Author
 **Project By:** Mudit Bafna  
+
 **Team Members:** Lalit, Teja, and Jayanth
+
 **Tools Used:** Power BI, Excel, GitHub  
 
 ---
