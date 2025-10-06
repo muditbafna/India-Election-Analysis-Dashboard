@@ -39,8 +39,9 @@ It allows users to explore **voting trends, party performance, and voter demogra
 
 Here’s a preview of the Indian Election Analysis Dashboard created in Power BI:
 
-(https://github.com/muditbafna/India-Election-Analysis-Dashboard/blob/3f96a11302b063f648935a969509e8dfeefe04ab/India-Election-Analysis-Dashboard-img.png)
+![India-Election-Analysis-Dashboard-img.png](https://github.com/muditbafna/India-Election-Analysis-Dashboard/blob/3f96a11302b063f648935a969509e8dfeefe04ab/India-Election-Analysis-Dashboard-img.png)
 
+---
 ## 📈 Dashboard Highlights
 
 ### 🧭 Filters and Slicers
