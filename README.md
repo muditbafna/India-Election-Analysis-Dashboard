@@ -110,13 +110,13 @@ indian-election-analysis-dashboard/
 ## 🧑‍💻 Author
 **Project By:** Mudit Bafna  
 
-**Team Members:** Lalit, Teja, and Jayanth
+**Team Members:** Lalit, Tejaswani, and Jayanth
 
 **Tools Used:** Power BI, Excel, GitHub  
 
 ---
 
 ## ⭐ Acknowledgments
-Special thanks to my teammates **Lalit**, **Teja**, and **Jayanth** for their collaboration, contributions, and support throughout the project.
+Special thanks to my teammates **Lalit**, **Tejaswani**, and **Jayanth** for their collaboration, contributions, and support throughout the project.
 
 This dashboard was created as part of the **Infosys Springboard Data Analytics Virtual Internship**, serving as the **Final Milestone Project**. It demonstrates our team’s ability to analyze large datasets, apply Power BI visualization techniques, and derive meaningful insights from real-world election data.
