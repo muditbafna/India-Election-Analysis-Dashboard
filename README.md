@@ -85,7 +85,7 @@ Here’s a preview of the Indian Election Analysis Dashboard created in Power BI
    `Election final dashboard.pbix`
 
 2. **Download the dataset:**  
-   `indian-state-level-election.csv`
+   `Indian_loksabha_election_1962-2019`
 
 3. **Open in Power BI Desktop.**  
 4. Load the dataset and refresh data connections if prompted.  
